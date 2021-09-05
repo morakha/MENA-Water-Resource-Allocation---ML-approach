@@ -4,6 +4,6 @@
 
 • Trained multiple models including SVM, OLS Regressor, Regression Trees, and Cross-validation methods.
 
-*Loo at Final_131_Notebook.ipynb for full results*
+*Loo at Final_131_Project.ipynb for full results*
 
 Environment: Pandas, GeoPandas, Scikit-Learn, NumPy, Matplotlib
